@@ -1,0 +1,24 @@
+COG_category,COG_description,Core and soft core,accessary and private
+A,RNA processing and modification,126748,3116
+B,Chromatin structure and dynamics,40603,3571
+C,Energy production and conversion,164934,12847
+D,"Cell cycle control, cell division, chromosome partitioning",64037,3372
+E,Amino acid transport and metabolism,224853,23691
+F,Nucleotide transport and metabolism,46093,5993
+G,Carbohydrate transport and metabolism,268176,29440
+H,Coenzyme transport and metabolism,110617,12726
+I,Lipid transport and metabolism,150162,12563
+J,"Translation, ribosomal structure and biogenesis",160124,7994
+K,Transcription,189103,12874
+L,"Replication, recombination and repair",99354,8221
+M,Cell wall/membrane/envelope biogenesis,39476,9490
+N,Cell motility,2217,30
+O,"Posttranslational modification, protein turnover, chaperones",218632,18828
+P,Inorganic ion transport and metabolism,118431,8390
+Q,"Secondary metabolites biosynthesis, transport and catabolism",204455,16506
+T,Signal transduction mechanisms,145551,7351
+U,"Intracellular trafficking, secretion, and vesicular transport",196500,7342
+V,Defense mechanisms,19986,1322
+W,Extracellular structures,2382,41
+Y,Nuclear structure,10341,40
+Z,Cytoskeleton,52867,3355
